@@ -1,0 +1,23 @@
+xml version=1.0 encoding=utf-8
+
+layouttypethumbnaillayouttype
+
+channels
+
+channel
+name[B][COLOR lime]●[COLOR][B] [B][COLOR white]TV AO VIVO[COLOR][B]name
+thumbnailhttpsraw.githubusercontent.commegatvonlinekodimegatvmastercategoriatodos-canais.pngthumbnail
+externallinkhttpsgitlab.commegatvonlinekodimegatvrawmastermatrixbase-principalmenu-tv-ao-vivo-17.xmlexternallink
+fanartfanart
+info[B][COLOR white]OS MELHORES CANAIS[COLOR][B] [B][COLOR gold]AO VIVO[COLOR][B] [B][COLOR white]EM UM SÓ LUGAR[COLOR][B]info
+channel
+
+channel
+name[B][COLOR lime]●[COLOR][B] [B][COLOR white]FILMES[COLOR][B]name
+thumbnailthumbnail
+externallinkexternallink
+fanartfanart
+info[B][COLOR white]OS MELHORES FILMES[COLOR][B] [B][COLOR white]EM UM SÓ LUGAR[COLOR][B]info
+channel        
+        
+channels
